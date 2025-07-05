@@ -33,6 +33,7 @@ I'm a creative developer, engineering student, and visual storyteller—passiona
 - 🎓 Academic GitHub: [@David-Lochan](https://github.com/David-Lochan)  
 - 💻 Personal GitHub: [@DavidLochan](https://github.com/DavidLochan)  
 - 💼 LinkedIn: [linkedin.com/in/davidlochan](https://www.linkedin.com/in/david-lochan)
+- 🎨 Behance: [behance.net/davidlochan](https://www.behance.net/davidlochan)  
 - 🌐 Personal site coming soon…
 
 ---

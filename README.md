@@ -13,6 +13,10 @@ I'm a creative developer, engineering student, and visual storyteller—passiona
 ---
 
 ### 🌐 Personal Projects
+- 🪴 **PlantVerse: Plant Care & Identification App** - Designed and prototyped a mobile app that helps users identify, care for, and manage plants.
+- 💻 **Realtime Code Validator** – Built a serverless web application for real-time Python and JavaScript syntax validation using AWS Lambda, API Gateway
+(WebSocket), DynamoDB, S3, and CloudFront.
+- ♻️ **CarbonX – Gamified Sustainability App (Prototype)** – Designed a sustainability tracking app with gamification, streaks, and evolution-based rewards; earned a 100/100 project score.
 - 💬 **Spring Talk** – A feature-rich chat application with real-time messaging.
 
 ### 🎓 Academic Work
@@ -23,8 +27,8 @@ I'm a creative developer, engineering student, and visual storyteller—passiona
 ---
 
 ## 📌 Skills & Interests
-- **Languages:** C, C++, Python, JavaScript, HTML/CSS,  Verilog  
-- **Frameworks & Libraries:** React, React Native, Node.js, **Tailwind CSS**.
+- **Languages:** C, C++, C#, Python, JavaScript, HTML/CSS,  Verilog  
+- **Frameworks & Libraries:** React, React Native, Node.js, **Tailwind CSS**, .NET MAUI.
 - **Tools:** Git, Figma, pgAdmin, Android Studio, Premiere Pro, After Effects  
 - **Domains:** Web Development, UI/UX Design, Videography, App Development
 ---
